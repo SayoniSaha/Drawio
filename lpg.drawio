@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T15:19:49.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.9" etag="BmugDI7qRtkctYKbWrY-" type="github"><diagram id="Osk1YYiJtgnBLB8U80HX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-23T15:26:47.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="rSy4E96vJfBIiiQfQ2Su" version="14.6.9" type="github">
+  <diagram id="Osk1YYiJtgnBLB8U80HX" name="Page-1">
+    <mxGraphModel dx="898" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#EEEEEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Rkvzg3gMLtkVywoUGGfo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#EEEEEE;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="1" source="Rkvzg3gMLtkVywoUGGfo-1" target="Rkvzg3gMLtkVywoUGGfo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkvzg3gMLtkVywoUGGfo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#EEEEEE;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="1" source="Rkvzg3gMLtkVywoUGGfo-1" target="Rkvzg3gMLtkVywoUGGfo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkvzg3gMLtkVywoUGGfo-1" value="Raspberry Pi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkvzg3gMLtkVywoUGGfo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#EEEEEE;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="1" source="Rkvzg3gMLtkVywoUGGfo-2" target="Rkvzg3gMLtkVywoUGGfo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkvzg3gMLtkVywoUGGfo-2" value="LPG Cylinder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkvzg3gMLtkVywoUGGfo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=#EEEEEE;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="1" source="Rkvzg3gMLtkVywoUGGfo-3" target="Rkvzg3gMLtkVywoUGGfo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkvzg3gMLtkVywoUGGfo-3" value="LPG Sensor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkvzg3gMLtkVywoUGGfo-4" value="Buzzer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkvzg3gMLtkVywoUGGfo-5" value="App Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkvzg3gMLtkVywoUGGfo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#EEEEEE;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="1" source="Rkvzg3gMLtkVywoUGGfo-6" target="Rkvzg3gMLtkVywoUGGfo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rkvzg3gMLtkVywoUGGfo-6" value="Power Supply" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
